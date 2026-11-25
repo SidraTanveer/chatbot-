@@ -1,0 +1,6 @@
+.env*
+nexora.db
+nexora.db-*
+node_modules
+.next
+.git
